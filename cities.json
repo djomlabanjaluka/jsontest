@@ -1,0 +1,1 @@
+{ "status": "success", "errormsg": null, "locations": [ { "orderNo": "1", "ID": "123", "City": "Vienna", "attractions": "Schonbrunn Palace, St. Stephen's Cathedral", "imageURL": "https://example.com/vienna.jpg" }, { "orderNo": "2", "ID": "456", "City": "Salzburg", "attractions": "Hohensalzburg Fortress, Mozart's Birthplace", "imageURL": "https://example.com/salzburg.jpg" } ] }
